@@ -1,0 +1,34 @@
+n is 5
+number is composite
+n is 561
+number is composite
+n is 7919
+the number 7919 is probably prime
+the number 7919 is probably prime
+the number 7919 is probably prime
+the number 7919 is probably prime
+the number 7919 is probably prime
+the number 7919 is probably prime
+the number 7919 is probably prime
+the number 7919 is probably prime
+the number 7919 is probably prime
+the number 7919 is probably prime
+number is composite
+n is 7923
+number is composite
+n is 876876
+Number is prime 
+n is 23123
+number is composite
+n is 997
+the number 997 is probably prime
+the number 997 is probably prime
+the number 997 is probably prime
+the number 997 is probably prime
+number is composite
+n is 961748941
+number is composite
+n is 961748947
+number is composite
+n is 96174894732
+Number is prime 

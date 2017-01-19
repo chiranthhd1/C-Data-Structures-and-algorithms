@@ -1,0 +1,28 @@
+HW2-Miller Rabin
+================
+Please Enter the Number to test for Miller Rabin Primality Test...
+Number = Please Enter the Number of repeatation...
+
+Checking Primality of Number = 961748947
+
+Representing 961748946 = 2^1 * 480874473
+d = 480874473
+r = 1
+
+
+	Taking 45266944 as witness...Probably Prime
+	Taking 586820110 as witness...Probably Prime
+	Taking 63197922 as witness...Probably Prime
+	Taking 585532806 as witness...Probably Prime
+	Taking 231303368 as witness...Probably Prime
+	Taking 694914215 as witness...Probably Prime
+	Taking 840577168 as witness...Probably Prime
+	Taking 257395924 as witness...Probably Prime
+	Taking 598096604 as witness...Probably Prime
+	Taking 354771103 as witness...Probably Prime
+
+
+Given Number 961748947 is Probably Prime
+
+
+Algorithm Execution Time = 0ms

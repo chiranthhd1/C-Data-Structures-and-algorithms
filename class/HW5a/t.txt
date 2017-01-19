@@ -1,0 +1,9395 @@
+
+==========================
+Command - PRINT
+Mode - RANDOM
+N - 10
+Max - 100
+Random Number Assignment Done
+Unsorted - 
+Hi
+58 Hi
+82 Hi
+48 Hi
+14 Hi
+27 Hi
+54 Hi
+0 Hi
+90 Hi
+71 Hi
+28 
+Performing Sorting
+
+Insertion Sort Done
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 0
+Right - 9
+
+Pivot - 43
+ i and x[i] 0 58
+ j and x[j] 9 28
+ i and x[i] 0 28
+ j and x[j] 9 58
+ i and x[i] 1 0
+ j and x[j] 6 82
+ i and x[i] 2 27
+ j and x[j] 4 48
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 0
+Right - 3
+
+Pivot - 21
+ i and x[i] 0 28
+ j and x[j] 3 14
+ i and x[i] 0 14
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 0
+Right - 1
+
+Pivot - 7
+ i and x[i] 0 14
+ j and x[j] 1 0
+ i and x[i] 0 0
+ j and x[j] 1 14
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 0
+Right - 0
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 1
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 3
+
+Pivot - 27
+ i and x[i] 2 27
+ j and x[j] 3 28
+
+@@@@@@@@@@@@@@@@@@@@@
+
+Left - 2
+Right - 1
+
+@@@@@@@@@@@@@@@@@@@@@

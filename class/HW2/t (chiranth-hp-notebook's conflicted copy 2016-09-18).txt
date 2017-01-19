@@ -1,0 +1,20 @@
+5 is  probably prime 
+
+561 is composite
+
+7919 is  probably prime 
+
+7923 is composite
+
+876876 is composite
+
+23123 is composite
+
+997 is  probably prime 
+
+961748941 is  probably prime 
+
+961748947 is  probably prime 
+
+96174894732 is composite
+
